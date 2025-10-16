@@ -19,7 +19,7 @@ void loop() {
 ```
 Depois de escrever o código, conectei o Arduino ao computador usando um cabo USB. Selecionei a placa (Arduino Uno) e a porta COM correspondente no Arduino IDE. Por fim, cliquei no botão "Upload" para enviar o código para o Arduino e assim o Arduino executou o código e o LED interno começou a piscar de acordo com o código. 
 
-<p align="center"> <b>Vídeo de demonstração — Blink LED Interno</b><br> <img src="../assets/video-blink-led-interna.gif" width="600" controls></img> </p>
+<p align="center"> <b>Vídeo de demonstração — Blink LED Interno</b><br> <img src="assets/video-blink-led-interna.gif" width="600" controls></img> </p>
 
 # Parte 2: Simulando Blink Externo
 **Tarefa:** Fazer uma simulação no TinkerCad com uma montagem do pisca-pisca com Arduino Uno. Ao clicar no play do TinkerCad, o projeto deve executar sem erros uma rotina que simula um pisca-pisca de qualquer cadência. Utilize no projeto um protoboard, ligações elétricas, LED (precisa ser um OFF_BOARD), resistor e um Arduino.
@@ -54,7 +54,7 @@ void loop()
 ```
 7. Cliquei no botão "play" para executar o projeto e o LED começou a piscar de acordo com o código.
 
-<p align="center"> <b>Imagem do projeto no TinkerCad</b><br> <img src="../assets/tinkercad-blink-led.png" width="600"> </p>
+<p align="center"> <b>Imagem do projeto no TinkerCad</b><br> <img src="assets/tinkercad-blink-led.png" width="600"> </p>
 
 **Link para o projeto no TinkerCad:** [Clique aqui para acessar](https://www.tinkercad.com/things/aVaIb6jDGaC-blink-led?sharecode=5b_GEjejEvX6Q9PJz7XOICYwau7d4rUppCxpHw252rg)
 
